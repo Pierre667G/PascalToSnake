@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "\u001b[D\u001b[D\u001b[D\u001bjsapp",
+  "type": "module",
   "scripts": {
     "test": "mocha"
   },

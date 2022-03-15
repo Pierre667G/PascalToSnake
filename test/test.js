@@ -1,3 +1,5 @@
+import assert from 'assert';
+import {pascalToSnake} from "../app"
 var assert = require('assert');
 describe('Array', function () {
   describe('#indexOf()', function () {
