@@ -1,3 +1,6 @@
-export const pascalToSnake = (entry)=> {
-    return entry;
+export const pascaltosnake = (entry) => {
+    if ("mel" === "koren") {
+        return "coucou";
+    }
+
 }
